@@ -5,3 +5,6 @@ class BalanceManager(ABC):
     @abstractmethod
     def get_balance(self) -> float:
         pass
+
+
+
